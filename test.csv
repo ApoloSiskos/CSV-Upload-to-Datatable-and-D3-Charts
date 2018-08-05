@@ -1,0 +1,56 @@
+Category,Size,Color,Destination,Business Type,Country,Price,Quantity,Discount
+Accessories,262 oz,red,Australia,Specialty Bike Shop,Australia,174,225,23
+Accessories,214 oz,yellow,Canada,Specialty Bike Shop,Canada,502,90,17
+Accessories,147 oz,white,France,Specialty Bike Shop,France,242,855,37
+Accessories,112 oz,yellow,Germany,Specialty Bike Shop,Germany,102,897,42
+Accessories,256 oz,red,United Kingdom,Specialty Bike Shop,United Kingdom,126,115,44
+Accessories,278 oz,yellow,United States,Specialty Bike Shop,United States,1246,88,47
+Accessories,8 oz,green,Australia,Value Added Reseller,Australia,680,66,80
+Accessories,181 oz,yellow,Canada,Value Added Reseller,Canada,1241,939,66
+Accessories,181 oz,yellow,Canada,Value Added Reseller,Canada,1241,939,66
+Accessories,344 oz,yellow,France,Value Added Reseller,France,150,67,30
+Accessories,291 oz,red,Germany,Value Added Reseller,Germany,244,963,22
+Accessories,126 oz,yellow,United Kingdom,Value Added Reseller,United Kingdom,501,556,9
+Accessories,317 oz,red,United States,Value Added Reseller,United States,4960,898,41
+Accessories,124 oz,yellow,Australia,Warehouse,Australia,9,578,8
+Accessories,23 oz,red,Canada,Warehouse,Canada,3655,64,70
+Accessories,124 oz,green,France,Warehouse,France,1654,556,95
+Accessories,310 oz,yellow,Germany,Warehouse,Germany,1190,292,36
+Accessories,277 oz,red,United Kingdom,Warehouse,United Kingdom,1222,730,38
+Accessories,47 oz,white,United States,Warehouse,United States,7941,73,53
+Bikes,264 oz,white,Australia,Specialty Bike Shop,Australia,6829,19,56
+Bikes,76 oz,red,Canada,Specialty Bike Shop,Canada,1664,19,75
+Bikes,217 oz,red,France,Specialty Bike Shop,France,2995,98,88
+Bikes,251 oz,green,Germany,Specialty Bike Shop,Germany,1487,96,100
+Bikes,292 oz,green,United Kingdom,Specialty Bike Shop,United Kingdom,9245,51,29
+Bikes,266 oz,green,United States,Specialty Bike Shop,United States,9008,76,66
+Bikes,198 oz,green,Australia,Value Added Reseller,Australia,9376,92,7
+Bikes,109 oz,red,Canada,Value Added Reseller,Canada,1531,56,31
+Bikes,54 oz,yellow,France,Value Added Reseller,France,5421,83,22
+Bikes,93 oz,red,Germany,Value Added Reseller,Germany,6975,73,41
+Bikes,297 oz,blue,United Kingdom,Value Added Reseller,United Kingdom,4320,59,100
+Bikes,339 oz,red,Australia,Value Added Reseller,United States,3200,27,41
+Bikes,205 oz,blue,Canada,Warehouse,Australia,6688,22,41
+Bikes,226 oz,blue,France,Warehouse,Canada,699,22,42
+Bikes,311 oz,purple,Germany,Warehouse,France,5403,75,70
+Bikes,282 oz,red,United Kingdom,Warehouse,Germany,6377,28,49
+Bikes,286 oz,blue,United States,Warehouse,United Kingdom,2471,93,14
+Bikes,100 oz,blue,Australia,Warehouse,United States,6650,40,4
+Clothing,218 oz,yellow,Canada,Specialty Bike Shop,Australia,865,4513,70
+Clothing,216 oz,blue,France,Specialty Bike Shop,Canada,511,4615,20
+Clothing,284 oz,blue,Germany,Specialty Bike Shop,France,981,1854,36
+Clothing,325 oz,blue,United Kingdom,Specialty Bike Shop,Germany,57,1187,10
+Clothing,192 oz,white,United States,Specialty Bike Shop,United Kingdom,675,1527,38
+Clothing,25 oz,purple,Australia,Specialty Bike Shop,United States,40,4342,72
+Clothing,95 oz,red,Canada,Value Added Reseller,Australia,400,8975,63
+Clothing,39 oz,purple,France,Value Added Reseller,Canada,971,3522,90
+Clothing,36 oz,green,Germany,Value Added Reseller,France,357,3939,93
+Clothing,208 oz,red,United Kingdom,Value Added Reseller,Germany,820,3560,40
+Clothing,3 oz,white,United States,Value Added Reseller,United Kingdom,520,3892,32
+Clothing,147 oz,white,Australia,Value Added Reseller,United States,448,3906,24
+Clothing,68 oz,red,United Kingdom,Warehouse,Australia,513,9790,40
+Clothing,267 oz,blue,United States,Warehouse,Canada,977,6107,8
+Clothing,33 oz,green,Australia,Warehouse,France,118,4718,84
+Clothing,319 oz,blue,Canada,Warehouse,Germany,161,7988,29
+Clothing,326 oz,green,France,Warehouse,United Kingdom,239,840,89
+Clothing,184 oz,green,Germany,Warehouse,United States,327,6574,79
